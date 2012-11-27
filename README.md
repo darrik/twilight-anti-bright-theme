@@ -1,4 +1,8 @@
-# Twilight Anti-Bright
+# My Twilight Anti-Bright fork
+
+I removed most background colours from the Emacs version. The previews below are not relevant any more.
+
+## Twilight Anti-Bright
 
 A light-on-dark Emacs and TextMate theme inspired by the dark-on-light
 Twilight Bright TextMate theme by [Florian Pichler][pichfl].
